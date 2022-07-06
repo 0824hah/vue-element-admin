@@ -96,7 +96,7 @@
       <br />
       <social-sign />
     </el-dialog>
-    tttt
+    ttttttt
   </div>
 </template>
 
